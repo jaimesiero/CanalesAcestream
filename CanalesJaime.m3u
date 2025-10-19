@@ -429,3 +429,6 @@ acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL FHD --> NEW ERA
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA" tvg-id="NBA", NBA
+acestream://cc3dea4f93071fed3f67be4518618cd73a6ca77a
